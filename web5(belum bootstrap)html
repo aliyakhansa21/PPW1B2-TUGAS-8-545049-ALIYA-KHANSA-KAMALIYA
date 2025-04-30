@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Rilis Berita - SV UGM</title>
+    <link rel="stylesheet" href="web5.css">
+    
+</head>
+<body>
+
+<main>
+    <section class="berita-heading">
+        <h2>Rilis Berita</h2>
+    </section>
+
+    <section class="berita-utama">
+        <article class="berita-item">
+            <div class="berita-grid">
+                <figure class="berita-gambar">
+                    <a href="https://sv.ugm.ac.id/2025/04/24/ciptakan-lingkungan-aman-sv-ugm-adakan-sosialisasi-pencegahan-kekerasan-seksual/">
+                        <img src="https://sv.ugm.ac.id/wp-content/uploads/sites/27/2025/04/DSC5261-560x376.jpg"                             width="560" height="376" class="img-responsive">
+                    </a>
+                </figure>
+                <div class="berita-konten">
+                    <h3>
+                        <a href="https://sv.ugm.ac.id/2025/04/24/ciptakan-lingkungan-aman-sv-ugm-adakan-sosialisasi-pencegahan-kekerasan-seksual/">
+                            Ciptakan Lingkungan Aman, SV UGM Adakan Sosialisasi Pencegahan Kekerasan Seksual
+                        </a>
+                    </h3>
+                    <p>
+                        Yogyakarta – Sekolah Vokasi Universitas Gadjah Mada (UGM) terus memperkuat komitmennya dalam menciptakan lingkungan kampus yang aman, sehat, dan inklusif. Salah satu wujud konkret dari komitmen tersebut adalah penyelenggaraan sosialisasi ...
+                    </p>
+                    <a href="https://sv.ugm.ac.id/2025/04/24/ciptakan-lingkungan-aman-sv-ugm-adakan-sosialisasi-pencegahan-kekerasan-seksual/" class="btn">Baca Selengkapnya</a>
+                </div>
+            </div>
+        </article>
+    </section>
+
+    <section class="berita-terbaru">
+        <h3>Berita Terbaru</h3>
+        <div class="berita-list">
+            <article class="berita-item">
+                <figure class="berita-gambar">
+                    <a href="https://sv.ugm.ac.id/2025/04/24/ciptakan-lingkungan-aman-sv-ugm-adakan-sosialisasi-pencegahan-kekerasan-seksual/">
+                        <img src="https://sv.ugm.ac.id/wp-content/uploads/sites/27/2025/04/DSC5261-360x242.jpg"
+                             alt="Prof. Dra. Yayi Suryo Prabandari, Ketua Tim HPU UGM"
+                             width="360" height="242" class="img-responsive">
+                    </a>
+                </figure>
+                <div class="berita-konten">
+                    <h4>
+                        <a href="https://sv.ugm.ac.id/2025/04/24/ciptakan-lingkungan-aman-sv-ugm-adakan-sosialisasi-pencegahan-kekerasan-seksual/">
+                            Ciptakan Lingkungan Aman, SV UGM Adakan Sosialisasi Pencegahan Kekerasan Seksual
+                        </a>
+                    </h4>
+                    <time datetime="2025-04-24">24 April 2025</time>
+                </div>
+            </article>
+
+            <article class="berita-item">
+                <figure class="berita-gambar">
+                    <a href="https://sv.ugm.ac.id/2025/04/16/empat-dosen-sv-ugm-raih-penghargaan-atas-publikasi-ilmiah-internasional-bereputasi/">
+                        <img src="https://sv.ugm.ac.id/wp-content/uploads/sites/27/2025/04/WhatsApp-Image-2025-04-18-at-20.14.23_c5f5dcc0-819x1024.jpg"
+                             alt="Prof. Dra. Yayi Suryo Prabandari, Ketua Tim HPU UGM"
+                             width="360" height="242" class="img-responsive">
+                    </a>
+                </figure>
+                <div class="berita-konten">
+                    <h4>
+                        <a href="https://sv.ugm.ac.id/2025/04/16/empat-dosen-sv-ugm-raih-penghargaan-atas-publikasi-ilmiah-internasional-bereputasi/">
+                            Empat Dosen SV UGM Raih Penghargaan Atas Publikasi Ilmiah Internasional
+                        </a>
+                    </h4>
+                    <time datetime="2025-04-16">16 April 2025</time>
+                </div>
+
+             </article>
+
+             <article class="berita-item">
+                <figure class="berita-gambar">
+                    <a href="https://sv.ugm.ac.id/2025/04/14/intact-base-buka-kelas-bahasa-mandarin-gratis-bagi-mahasiswa-sv-ugm/">
+                        <img src="https://sv.ugm.ac.id/wp-content/uploads/sites/27/2025/04/DSC5142-1024x576.jpg"
+                             alt="Prof. Dra. Yayi Suryo Prabandari, Ketua Tim HPU UGM"
+                             width="360" height="242" class="img-responsive">
+                    </a>
+                </figure>
+                <div class="berita-konten">
+                    <h4>
+                        <a href="https://sv.ugm.ac.id/2025/04/14/intact-base-buka-kelas-bahasa-mandarin-gratis-bagi-mahasiswa-sv-ugm/">
+                            INTACT Base Buka Kelas Bahasa Mandarin Gratis bagi Mahasiswa SV UGM
+                        </a>
+                    </h4>
+                    <time datetime="2025-04-14">14 April 2025</time>
+                </div>
+
+             </article>
+        </div>
+
+        <div class="btn-box col-md-12">
+            <a href="https://sv.ugm.ac.id/category/berita-terkini/rilis-berita-id/" class="btn btn-more">Berita Selengkapnya</a>
+        </div>
+    </section>
+
+    
+    
+</main>
+
+</body>
+</html>
